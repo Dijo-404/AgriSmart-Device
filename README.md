@@ -8,9 +8,9 @@ This repository contains the ESP32 firmware that:
 >Updates readings every 2 seconds for live monitoring.
 
 ## Hardware Components
-1.ESP32
-2.Soil Moisture Sensor
-3.Temperature & Humidity Sensor (DHT11 or DHT22)
+1. ESP32
+2. Soil Moisture Sensor
+3. Temperature & Humidity Sensor (DHT11 or DHT22)
 
 ## Setup Instructions
 ```bash
